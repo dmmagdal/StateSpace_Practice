@@ -10,3 +10,6 @@
 [submodule "Mamba-S6/mamba-minimal"]
 	path = Mamba-S6/mamba-minimal
 	url = https://github.com/johnma2006/mamba-minimal
+[submodule "S4/S4Torch"]
+	path = S4/S4Torch
+	url = https://github.com/TariqAHassan/S4Torch

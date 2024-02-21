@@ -19,3 +19,4 @@ Description: A collection of code and papers on the S4 model.
      - [Simplifying S4](https://hazyresearch.stanford.edu/blog/2022-06-11-simplifying-s4)
  - official [s4 implementation](https://github.com/state-spaces/s4)
  - [the annotated s4](https://srush.github.io/annotated-s4/)
+ - [s4 implementation](https://github.com/TariqAHassan/S4Torch)
