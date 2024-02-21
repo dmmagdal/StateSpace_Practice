@@ -1,0 +1,9 @@
+[submodule "S4/s4"]
+	path = S4/s4
+	url = https://github.com/state-spaces/s4
+[submodule "Mamba-S6/mamba-tiny"]
+	path = Mamba-S6/mamba-tiny
+	url = https://github.com/PeaBrane/mamba-tiny
+[submodule "Mamba-S6/mamba"]
+	path = Mamba-S6/mamba
+	url = https://github.com/state-spaces/mamba
