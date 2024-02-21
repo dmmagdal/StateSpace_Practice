@@ -7,3 +7,6 @@
 [submodule "Mamba-S6/mamba"]
 	path = Mamba-S6/mamba
 	url = https://github.com/state-spaces/mamba
+[submodule "Mamba-S6/mamba-minimal"]
+	path = Mamba-S6/mamba-minimal
+	url = https://github.com/johnma2006/mamba-minimal
