@@ -13,3 +13,6 @@
 [submodule "S4/S4Torch"]
 	path = S4/S4Torch
 	url = https://github.com/TariqAHassan/S4Torch
+[submodule "Mamba-S6/mamba-notes"]
+	path = Mamba-S6/mamba-notes
+	url = https://github.com/hkproj/mamba-notes.git
