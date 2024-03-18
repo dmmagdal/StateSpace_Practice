@@ -20,3 +20,8 @@ Description: A collection of code and papers on the Mamba S6 model.
      - [freedium link](https://freedium.cfd/https://medium.com/ai-insights-cobet/building-mamba-from-scratch-a-comprehensive-code-walkthrough-5db040c28049)
  - Mamba: Linear-Time Sequence Modeling with Selective State Spaces - Arxiv Dives ([oxen.ai blog](https://www.oxen.ai/blog/mamba-linear-time-sequence-modeling-with-selective-state-spaces-arxiv-dives))
  - ARTIFICIAL INTELLIGENCEMamba: Redefining Sequence Modeling and Outforming Transformers Architecture ([unite.ai blog](https://www.unite.ai/mamba-redefining-sequence-modeling-and-outforming-transformers-architecture/))
+ - Mamba and S4 Explained: Architecture, Parallel Scan, Kernel Fusion, Recurrent, Convolution, Math ([youtube video](https://www.youtube.com/watch?v=8Q_tqwpTpVU&ab_channel=UmarJamil))
+ - MAMBA and State Space Models explained | SSM explained ([youtube video](https://www.youtube.com/watch?v=vrF3MtGwD0Y))
+ - Mamba: Linear-Time Sequence Modeling with Selective State Spaces (Paper Explained) ([youtube video](https://www.youtube.com/watch?v=9dSkvxS2EB0))
+ - Mamba - a replacement for Transformers? ([youtube video](https://www.youtube.com/watch?v=ouF-H35atOY))
+ - MAMBA AI (S6): Better than Transformers? ([youtube video](https://www.youtube.com/watch?v=VtbtC3TNWdI))
