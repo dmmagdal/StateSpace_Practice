@@ -28,3 +28,4 @@ Description: A collection of code and papers on the Mamba S6 model.
  - The Mamba Effect: Mamba models gaining ground ([medium article](https://medium.com/@ulalaparis/the-mamba-effect-mamba-models-gaining-ground-f2d2c9b9245c))
  - An Introduction to the Mamba LLM Architecture: A New Paradigm in Machine Learning ([datacamp blog](https://www.datacamp.com/tutorial/introduction-to-the-mamba-llm-architecture))
  - Mamba: SSM, Theory, and Implementation in Keras and TensorFlow ([medium article](https://towardsdatascience.com/mamba-ssm-theory-and-implementation-in-keras-and-tensorflow-32d6d4b32546))
+     - [github repo](https://github.com/maxDeCoder/Mamba-tf)
