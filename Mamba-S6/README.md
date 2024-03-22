@@ -25,3 +25,6 @@ Description: A collection of code and papers on the Mamba S6 model.
  - Mamba: Linear-Time Sequence Modeling with Selective State Spaces (Paper Explained) ([youtube video](https://www.youtube.com/watch?v=9dSkvxS2EB0))
  - Mamba - a replacement for Transformers? ([youtube video](https://www.youtube.com/watch?v=ouF-H35atOY))
  - MAMBA AI (S6): Better than Transformers? ([youtube video](https://www.youtube.com/watch?v=VtbtC3TNWdI))
+ - The Mamba Effect: Mamba models gaining ground ([medium article](https://medium.com/@ulalaparis/the-mamba-effect-mamba-models-gaining-ground-f2d2c9b9245c))
+ - An Introduction to the Mamba LLM Architecture: A New Paradigm in Machine Learning ([datacamp blog](https://www.datacamp.com/tutorial/introduction-to-the-mamba-llm-architecture))
+ - Mamba: SSM, Theory, and Implementation in Keras and TensorFlow ([medium article](https://towardsdatascience.com/mamba-ssm-theory-and-implementation-in-keras-and-tensorflow-32d6d4b32546))
